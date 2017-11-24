@@ -1,1 +1,1 @@
-{"userlink":"https://intl-console.psinets.com","api_code":"k","app_version":1}
+{"userlink":"https://intl-console.psinets.com","api_code":"k","app_version":1.1}
