@@ -1,1 +1,1 @@
-{"userlink":"https://intl-console.psinets.com/mobile/user/login.html","api_code":"k","api_version":"1"}
+{"userlink":"https://intl-console.psinets.com/mobile/user/login.html","api_code":"k","app_version":1}
